@@ -1,0 +1,110 @@
+body {
+    background-color: lightgrey ;
+}
+
+.navbar {
+    padding: 10px;
+    padding-bottom: 0px;
+    font-size: 15px;
+}
+
+.navbar li {
+    display: inline-block;
+    padding: 5px;
+    margin-right: 5px;
+    margin-left: 5px;
+    cursor: pointer;
+    color: black;
+    border-radius: 1px;
+}
+
+.navbar-light .navbar-brand {
+    color: white;
+}
+
+.navbar-brand {
+    font-size: 22px;
+    font-family: Arial;
+    background-color: rgb(48, 108, 177);
+    padding: 10px;
+    padding-bottom: 0px;
+}
+
+.dropdown-item {
+    font-size: 13px;
+}
+
+.container {
+    color: rgb(48, 108, 177);
+    font-family: Arial;
+    padding-top: 20px;
+    padding-right: 0px;
+    padding-left: 0px;
+    margin: auto;
+}
+
+.container p {
+    color: black;
+}
+
+#container-table {
+    margin: 80px;
+    background-color: white;
+    padding: 50px;
+    padding-top: 20px;
+}
+
+#container-comp {
+    margin: 70px;
+    background-color: white;
+    padding: 40px;
+    padding-top: 20px;
+}
+
+h1 {
+    font-weight: bold;
+}
+
+h2 {
+    color: rgb(48, 108, 177);
+    font-weight: bold;
+}
+
+h3 {
+    font-weight: bold;
+}
+
+h4 {
+    font-weight: bold;
+}
+
+h5 {
+    font-weight: bold;
+    text-align: center;
+}
+
+.box {
+    padding: 20px;
+    margin: 10px;
+    color: rgb(48, 108, 177);
+    justify-content: stretch;
+}
+
+.box p {
+    color: black;
+}
+
+.box image {
+    float:left;
+}
+.white {
+    background: white;
+}
+
+#container{
+    background: white;
+}
+#floated{
+    float: left;
+    width: 350px;
+}
